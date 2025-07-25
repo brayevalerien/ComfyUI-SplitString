@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-splitstring"
+description = "Very specific node for spliting a string with 12 lines into 12 individual strings.k"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/brayevalerien/ComfyUI-SplitString"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "val"
+DisplayName = "ComfyUI-splitstring"
+Icon = ""
